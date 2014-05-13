@@ -1,0 +1,65 @@
+/**border**/
+.bs-docs-example {
+    background-color: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px 4px 4px 4px;
+    margin: 15px 0;
+    padding: 39px 19px 14px;
+   /* position: relative;*/
+}
+
+.probox {
+    display: inline;
+    float: left;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 5px 4px;
+    overflow: hidden;
+    width: 238px;
+}
+
+.pimg {
+    border: 1px solid #EAEAEA;
+    padding: 4px;
+}
+
+.pimg img {
+    background: url("/shanghai/images/loading.gif") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 150px;
+    width: 228px;
+}
+
+.procont {
+    color: #383434;
+    padding-left: 10px;
+}
+.procont a {
+    color: #383434;
+    text-decoration: none;
+}
+.procont a:hover {
+    text-decoration: underline;
+}
+.procont h4 {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 0;
+    padding: 0;
+}
+.procont h4 a {
+    color: #032482;
+    text-decoration: none;
+}
+.procont h4 a:hover {
+    text-decoration: underline;
+}
+#RentalContact1 {
+    background: url("pic/ContactUs.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	height: 200px;
+	width: 200px;
+}
+
+.sprice {
+    color: #F30D0D;
+}
